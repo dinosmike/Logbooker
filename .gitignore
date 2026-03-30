@@ -10,7 +10,6 @@ env/
 
 # PyInstaller
 build/
-dist/
 *.spec.bak
 
 # IDE / OS
