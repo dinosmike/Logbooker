@@ -1,6 +1,6 @@
-# Logbooker 
+# DCS Logbooker 
 
-Logbooker - это DCS Logbook Editor, приложение на Python для работы с файлом `logbook.lua`:
+DCS Logbooker - это DCS Logbook Editor, приложение на Python для работы с файлом `logbook.lua`:
 
 - чтение большого `logbook.lua`;
 - просмотр и редактирование кампаний/истории;
