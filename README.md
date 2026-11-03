@@ -15,7 +15,7 @@ DCS Logbooker - это DCS Logbook Editor, приложение на Python дл
 
 ## Скриншот программы
 
-![Скриншот программы ](https://images2.imgbox.com/0a/ea/H7eLlBWK_o.jpg)
+![Скриншот программы ](docs/screenshot.jpg)
 
 ## Путь
 По умолчанию приложение подставляет типичный путь для текущего пользователя Windows, например:
